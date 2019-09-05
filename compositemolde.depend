@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567116071 source:c:\users\lenovo\desktop\edicomposite\compositemolde\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"ICOMPOSABLE.h"
+	"FOLDER.h"
+	"FILE.h"
+
+1567115721 c:\users\lenovo\desktop\edicomposite\compositemolde\icomposable.h
+
+1567119091 c:\users\lenovo\desktop\edicomposite\compositemolde\folder.h
+
+1567116048 c:\users\lenovo\desktop\edicomposite\compositemolde\file.h
+
